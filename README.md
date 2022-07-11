@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **heitor.augustob@hotmail.com**
 
-- 📄 Know about my experiences [I worked with electronics in the area of ​​network equipment repair. More precisely servers, Switch's and AP.](I worked with electronics in the area of ​​network equipment repair. More precisely servers, Switch's and AP.)
+- 📄 Know about my experiences - I worked with electronics in the area of ​​network equipment repair. More precisely servers, Switch's and AP. I worked with electronics in the area of ​​network equipment repair. More precisely servers, Switch's and AP.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
