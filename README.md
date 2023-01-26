@@ -36,10 +36,10 @@
 </p>
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitor-bello&show_icons=true&locale=en" alt="heitor-bello" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heitor-bello&show_icons=true&locale=en" alt="heitor-bello" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitor-bello&" alt="heitor-bello" />
+<img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=heitor-bello&" alt="heitor-bello" />
 </p>
 
