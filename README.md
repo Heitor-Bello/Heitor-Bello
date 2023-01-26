@@ -32,7 +32,7 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitor-bello&show_icons=true&locale=en&layout=compact" alt="heitor-bello" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=heitor-bello&show_icons=true&locale=en&layout=compact" alt="heitor-bello" />
 </p>
 
 <p>&nbsp;
@@ -40,6 +40,6 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=heitor-bello&" alt="heitor-bello" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitor-bello&" alt="heitor-bello" />
 </p>
 
